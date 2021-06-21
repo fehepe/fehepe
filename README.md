@@ -6,10 +6,6 @@
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2020. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehepe&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=fehepe&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=fehepe&theme=chartreuse-dark"></p>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
