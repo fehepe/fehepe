@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Fernando Hernandez </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2020. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> I'm an enthusiastic, responsible and hardworking IT person. Junior Mobile Developer with 2 plus years
+of experience in the Telecommunications domain. Extensive mobile (IOS, Android & Hybrid)
+application development experience with strong knowledge of various programming languages
+including Kotlin, C#, Flutter, XAMARIN. Specialized in delivering mobile apps and enterprise-class
+software solutions for big systems.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
