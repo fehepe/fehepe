@@ -1,20 +1,27 @@
-
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Fernando Hernandez </h1>
-
-<p align="center" width="150px"> I'm an enthusiastic, responsible and hardworking IT person. Software Developer with 3 years
-of experience in the Software Development domain. Extensive mobile (IOS, Android & Hybrid)
-application development and BackEnd experience with strong knowledge of various programming languages
-including Kotlin, C#, Golang. Specialized in delivering mobile apps and enterprise-class
-software solutions for big systems.</p>
-
-### :link: &nbsp;Connect with me
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Fernando Hernandez</h1>
 
 <p align="center">
+  Backend Software Engineer with 5+ years of experience designing, developing, and deploying scalable and high-performance systems.<br/>
+  Specialized in Golang, microservices architecture, and cloud-native solutions on AWS.<br/>
+  Passionate about building robust, secure, and efficient backend systems that solve real-world problems.
+</p>
 
-<a href="https://www.linkedin.com/in/fehepe/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:fehepe11@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.instagram.com/fernandoher1"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+---
 
+### 🚀 &nbsp;About Me
+
+- Experienced in building and maintaining **microservices** and **REST APIs**
+- Proficient with **Golang**, **C# (.NET)**, **Typescript**, and **PostgreSQL**
+- Strong background in **AWS cloud infrastructure** (Lambda, SQS, SNS, S3, EC2)
+- Skilled in performance optimization, observability, and secure system design
+- Advocate for **clean code**, **SOLID principles**, and **Agile methodologies**
+
+---
+
+### :link: &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fehepe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fehepe11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fernandoher1"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
